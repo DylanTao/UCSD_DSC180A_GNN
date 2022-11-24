@@ -1,4 +1,0 @@
-{
-    "dockerhub-id": "siruitao/panda",
-    "build-script": "python run.py"
-}
