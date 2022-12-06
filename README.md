@@ -1,5 +1,23 @@
 # UCSD_DSC180A_GNN
 
+## File structure
+
+```
+├── config # configuration files
+├── data # data files
+├── logs # log files
+├── notebooks # jupyter notebooks
+├── src # source code
+│   ├── models # model files
+│   │   ├── graph_classification # graph classification models
+├── test # test files
+├── utils.py # utility files
+├── readme.md # readme file
+├── requirements.txt # requirements file
+├── run.py # main for testing
+├── submission.json # submission file
+```
+
 ## The models are referenced from the following papers:
 - [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 - [Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
