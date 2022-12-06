@@ -1,4 +1,4 @@
 {
     "dockerhub-id": "siruitao/long_range_gnn",
-    "build-script": "python run.py"
+    "build-script": "python run.py test"
 }

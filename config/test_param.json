@@ -1,4 +1,4 @@
 {
-    "save_path" : "test/testdata",
-    "name" : "MUTAG"
+    "data_path" : "test/data/cora",
+    "len" : 100
 }

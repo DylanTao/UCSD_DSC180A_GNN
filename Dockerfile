@@ -26,6 +26,7 @@ WORKDIR /
 
 COPY src src
 COPY config config
+COPY test test
 
 COPY run.py run.py
 
