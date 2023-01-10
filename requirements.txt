@@ -5,7 +5,7 @@ networkx==2.8.7
 numpy==1.23.4
 pandas==1.5.1
 scipy==1.9.3
-torch==1.13.0
+torch==1.13.1
 torch_geometric==2.1.0.post1
 torchsummary==1.5.1
 tqdm==4.64.1
